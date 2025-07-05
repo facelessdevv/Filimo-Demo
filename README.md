@@ -8,18 +8,26 @@ A modern Android **Movie Explorer** app built with **Jetpack Compose**, designed
 
 ## 📸 Demo Previews
 
-### 🌞 Light Mode (Mobile)
-![Light Mode](https://github.com/facelessdevv/Filimo-Demo/blob/master/light_mode.gif?raw=true)
-
----
-
-### 🌚 Dark Mode (Mobile)
-![Dark Mode](https://github.com/facelessdevv/Filimo-Demo/blob/master/dark_mode.gif?raw=true)
+<table>
+  <tr>
+    <td align="center"><b>🌞 Light Mode</b></td>
+    <td align="center"><b>🌚 Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/facelessdevv/Filimo-Demo/blob/master/light_mode.gif?raw=true" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/facelessdevv/Filimo-Demo/blob/master/dark_mode.gif?raw=true" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📺 Android TV Mode
-![Android TV](https://github.com/facelessdevv/Filimo-Demo/blob/master/android_tv.gif?raw=true)
+
+<img src="https://github.com/facelessdevv/Filimo-Demo/blob/master/android_tv.gif?raw=true" width="500"/>
 
 ---
 
